@@ -64,7 +64,7 @@ Then open this file in your text editor of choice and add the following code:
 
 This will establish a new Result class with a one to many relationship to
 the Artist Result class.  You probably notice that we are referencing a column
-in the Artist Result class that does not yet exist.  Lets add that as well
+in the Artist Result class that does not yet exist.  Let's add that as well
 
 Open C<lib/MusicBase/Schema/Result/Artist.pm> in your editor and change it to
 look like this:
